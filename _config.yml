@@ -2,8 +2,8 @@
 name: "SOICE"
 title: "SOICE"
 description: "Society Of Indan Civil Engineering.."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo1.png'
+favicon: 'assets/images/logo1.png'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -21,6 +21,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  Harsh Upadhyay:
+    name: Harsh Upadhyay
+    display_name: Harsh Upadhyay
+    avatar: 'assets/images/harsh.jpg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: sindiancivile@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/SocietyOfICE
+    description: "Author and founder of SOICE, an entrepreneur by profession, likes to write about civil engineering, design and structure envision an above all best practices to be followed in the real world of civil engineering!"
   john:
     name: John
     display_name: John    

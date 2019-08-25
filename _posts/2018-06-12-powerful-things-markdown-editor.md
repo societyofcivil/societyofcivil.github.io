@@ -1,104 +1,50 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+title:  "Water Content and Workability for Construction of Concrete Road"
+author: Harsh Upadhyay
+categories: [ Civil ]
+image: assets/images/10.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+The water content shall be minimum required to provide the agreed workability for full compaction of the concrete to the required density which should be established through laboratory and field trials of the mix.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Water used for mixing and curing of concrete shall be clean and free from injurious amount of oil, salt, acid, vegetable matter or other substances harmful to the finished concrete.
 
-
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+The water content per batch of concrete should be maintained constantly except for suitable allowances to be made for free moisture, and loss of water due to evaporation during construction. Adjustments for workability shall be made by variations in the ratio of the coarse to fine aggregate or improving upon their grading without change in cement content or water-cement ratio. Any such change will warrant retesting of samples to assess the changes in the strength.
 
 
-## Writing code blocks
+## Water cement ratio for Construction of Concrete Road:
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
++ The maximum water cement ratio shall be 0.45 when only Ordinary Portland Cement is used.
 
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
++ The maximum water cement ratio shall be 0.50 when Ordinary Portland Cement blended with fly ash at site/Portland pozzolana cement/ Portland slag cement is used.
 
 
+## Slump of Concrete Mix for Construction of Concrete Road:
+
++ The slump of concrete mix should be in the range of 25±10 mm for pavements compacted by vibration using paving trains
+
++ The slump of concrete mix should be in the range of 40±10 mm in manual construction using needle vibrators for compaction.
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+## Factors Affecting Workability of Concrete:
++ Grading of aggregates
++ Shape of aggregates
++ Size of aggregates
++ Surface texture of aggregates
++ Cement content of concrete
++ Water content of concrete
++ Use of admixtures in concrete
++ Water cement ratio
++ Mix proportions of concrete
++ Method of mixing concrete
++ Method of compaction
++ Environmental condition.
+## Video for fun
 
-## Reference lists
+Enjoy!
 
-The quick brown jumped over the lazy.
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/qtg_X-ZcZvg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+####Note
+References:
+IRC: 15 – 2011 (Standard Specifications and Code of Practice for Construction of Concrete Roads)
