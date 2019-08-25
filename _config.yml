@@ -2,8 +2,8 @@
 name: "SOICE"
 title: "SOICE"
 description: "Society Of Indan Civil Engineering.."
-logo: 'assets/images/logo2.png'
-favicon: 'assets/images/logo2.png'
+logo: 'assets/images/logo2.jpg'
+favicon: 'assets/images/logo2.jpg'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
